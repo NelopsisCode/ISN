@@ -1,0 +1,73 @@
+
+ 
+@font-face { 				
+	font-family: "mangat";
+	src: url('mangat.ttf')
+	}
+
+body
+{
+background-image: url("anime_wallpaper2.jpg");
+background-attachment: fixed;
+background-repeat: no-reapeat;
+}
+
+header, footer
+{
+text-align:center;
+font-size: 25px;
+border:red groove;
+background-color:#E5E4E2
+}
+
+img
+{
+border:thin blue groove;
+}
+
+#mise_en_page /* Utilisation rapide de Flexbox pour la mise en page */
+{
+display: flex;
+justify-content:center;
+}
+
+h1
+{
+font-family:"mangat", Helvetica, Arial, sans-serif;
+color:#DC143C ;
+font-size: 60px;
+text-align:center;
+text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+}
+h2
+{
+text-align:center;
+font-size: 50px;
+color: brown;
+}
+h3
+{
+color:brown
+}
+
+li
+{
+	color: turquoise;
+	font-size: 20px
+}
+
+p
+{
+color: turquoise;
+font-size: 20px;
+}
+.download
+{
+font-size: 55px;
+color: red;
+font-family: "mangat", Helvetica, Arial, sans-serif;
+width: 550px;
+height: 200px;
+background-color:light grey;
+border: red groove;
+}

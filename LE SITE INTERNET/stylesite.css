@@ -1,0 +1,46 @@
+header, footer
+{
+text-align:center;
+font-size: 25px;
+border: grey solid;
+background-color:#E5E4E2;
+color: black
+}
+
+body
+{
+background-image:url(fondsite.jpg);
+background-attachment:fixed ;
+background-repeat: no-repeat;
+background-color: black;  
+color:#52D017
+}
+
+#hub
+{
+ display: flex;
+ justify-content: center;
+ align-items: center; 
+}
+
+img
+{z
+border: green groove
+}
+
+h1, div
+{
+color: #52D017;
+text-align: center;
+font-size: 70px;
+}
+.arobase
+{
+font-size: 500px;
+}
+article
+{
+	text-align:center;
+	font-size:34px
+}
+

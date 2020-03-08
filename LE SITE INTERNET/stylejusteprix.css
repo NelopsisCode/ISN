@@ -1,0 +1,34 @@
+span
+{
+  font-family: "Impact" ;
+  
+}
+body
+{
+  margin: 10px 0 ;
+  padding: 0 ;
+  text-align: center ;
+}
+header, footer
+{
+text-align:center;
+font-size: 25px;
+border: grey solid;
+background-color:#E5E4E2;
+color: black
+}
+h3
+{
+  font-family: "Impact" ;
+}
+ul
+{
+  font-family: "Comic Sans MS" ;
+}
+
+#mise_en_page 
+{
+display: flex;
+justify-content:center;
+
+}
